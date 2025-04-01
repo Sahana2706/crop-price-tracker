@@ -1,0 +1,5 @@
+[
+  { "name": "Wheat", "market": "Delhi", "price": 25, "date": "2025-04-01" },
+  { "name": "Rice", "market": "Mumbai", "price": 40, "date": "2025-04-01" },
+  { "name": "Corn", "market": "Bangalore", "price": 30, "date": "2025-04-01" }
+]
